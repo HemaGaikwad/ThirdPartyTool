@@ -19,6 +19,7 @@ public class ComposeEmail {
 	public static String Chrome_Value = "D:\\Edureka_March\\ThirdPartyToolsDemo\\Drivers\\chromedriver.exe";
 	public WebDriverWait wait = null;
 	
+	//This is a precondition method to set the browser
 	@BeforeMethod
 	public void precondition()
 	{
