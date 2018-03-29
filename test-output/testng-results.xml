@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2018-03-29T04:49:31Z" finished-at="2018-03-29T04:49:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2018-03-29T04:49:31Z" finished-at="2018-03-29T04:49:31Z">
+      <class name="autoit.LoggerDemo">
+        <test-method status="PASS" signature="loggerDemo()[pri:0, instance:autoit.LoggerDemo@5204062d]" name="loggerDemo" duration-ms="21" started-at="2018-03-29T10:19:31Z" finished-at="2018-03-29T10:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggerDemo -->
+      </class> <!-- autoit.LoggerDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

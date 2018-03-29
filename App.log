@@ -1,0 +1,5 @@
+2018-03-29 10:19:31 DEBUG LoggerDemo:13 - This is a debug method
+2018-03-29 10:19:31 ERROR LoggerDemo:23 - this is an error message
+2018-03-29 10:19:31 FATAL LoggerDemo:28 - This is a fatal error occurred during execution
+2018-03-29 10:19:31 WARN  LoggerDemo:33 - This is a warning message
+2018-03-29 10:19:31 INFO  LoggerDemo:18 - This is an information about AUT
